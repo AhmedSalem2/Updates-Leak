@@ -17,7 +17,7 @@ The MSR_evaluation.py script evaluates our Multi-sample Reconstruction Attack (A
 If you use this code, please cite the following paper: 
 # <a href="https://arxiv.org/abs/1904.01067">Updates-Leak</a>
 ```
-@inproceedings{jia2019memguard,
+@inproceedings{SBBFZ20,
     title={Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning},
     author={Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang},
   booktitle={USENIX},
