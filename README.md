@@ -20,7 +20,7 @@ If you use this code, please cite the following paper:
 @inproceedings{SBBFZ20,
     title={Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning},
     author={Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang},
-  booktitle={USENIX},
+  booktitle={USENIX Security},
   year={2020}
 }
 ```
