@@ -18,9 +18,11 @@ If you use this code, please cite the following paper:
 # <a href="https://arxiv.org/abs/1904.01067">Updates-Leak</a>
 ```
 @inproceedings{SBBFZ20,
-    title={Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning},
-    author={Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang},
-  booktitle={USENIX Security},
-  year={2020}
+author = {Ahmed Salem and Apratim Bhattacharya and Michael Backes and Mario Fritz and Yang Zhang},
+title = {{Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning}},
+booktitle = {{USENIX Security Symposium (USENIX Security)}},
+publisher = {USENIX},
+year = {2020}
 }
+
 ```
